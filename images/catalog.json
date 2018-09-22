@@ -1,0 +1,10 @@
+[
+  { "@type":"jpg", "name":"csse_avi", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"jpg", "name":"csse_banner", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"png", "name":"color-instagram-48_square", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"png", "name":"twitter_logo_whiteonblue", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"png", "name":"flogo_rgb_hex-144", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"jpg", "name":"csse_avi", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"jpg", "name":"csse_avi", "projects":[{ "name":"csse_flyer" }] },
+  { "@type":"jpg", "name":"csse_avi", "projects":[{ "name":"csse_flyer" }] }
+]
