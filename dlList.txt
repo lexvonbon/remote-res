@@ -1,0 +1,4 @@
+https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15
+https://code.visualstudio.com/docs/?dv=win64
+http://download.oracle.com/otn-pub/java/jdk/11.0.2+9/f51449fcd52f4d52b93a989c5c56ed3c/jdk-11.0.2_windows-x64_bin.exe
