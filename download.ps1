@@ -1,4 +1,4 @@
-PARAM ($inputFile)
+PARAM ($inputFile, $downloadFolder)
 
 $textfile = cat $inputFile
 
@@ -11,7 +11,7 @@ foreach ($item in $textfile) {
     $split = $url.LastIndexOf('/') + 1
     $fileName = $url.Substring($split, $url.Length - $split)
     
-    $destination = "$download-to" + $fileName
+    $destination = "$downloadFolder" + $fileName
 
     Write-Host $destination " curently downloading"
 
